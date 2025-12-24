@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sarthak 👋  
 
-<!--
-**sarthak-vyas-1980/sarthak-vyas-1980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering undergraduate at IET DAVV, Indore, focused on backend-heavy full‑stack web development and scalable, data‑driven applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- 🎓 3rd‑year BE Computer Engineering student at Institute of Engineering & Technology, Devi Ahilya Vishwavidyalaya (DAVV), Indore.  
+- 💻 Interested in backend development, API design, real‑time systems, and database‑driven applications. 
+- 🔧 Enjoy designing efficient services, working with data at scale, and improving performance, reliability, and maintainability of systems.
+- 🌱 Continuously strengthening data structures & algorithms and system design fundamentals.
+
+---
+
+## Get in touch
+
+💬 Ask me about backend development, APIs, real‑time communication, databases, and how I approach designing reliable services.
+- 📧 Email: **sarthakvyas41@gmail.com**  
+- 🔗 LinkedIn: **www.linkedin.com/sarthak-vyas-1980**  
+
